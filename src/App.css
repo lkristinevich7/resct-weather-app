@@ -1,0 +1,36 @@
+*{
+  box-sizing: border-box;
+}
+header{
+  background-color: yellow;
+  height: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+main{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  margin-top: 20px;
+}
+.city-panel{
+  margin-bottom: 20px;
+}
+button{
+  background-color: black;
+  color: white;
+  padding: 10px 20px;
+  margin: 5px;
+  border-radius: 20px;
+  outline: none;
+  
+}
+
+button:hover{
+  cursor: pointer;
+  transform: scale(1.1);
+}
