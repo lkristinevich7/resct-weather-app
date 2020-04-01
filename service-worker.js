@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/resct-weather-app/precache-manifest.6e6263a90ae6225dca9d052c2d4959c9.js"
+  "/resct-weather-app/precache-manifest.3c4e225177dc5cf2d7c99de14fec653a.js"
 );
 
 self.addEventListener('message', (event) => {

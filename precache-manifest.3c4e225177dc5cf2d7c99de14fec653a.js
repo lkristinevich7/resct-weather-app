@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "98eb95891522c4408cbf31bfcb122534",
+    "revision": "c853614f6a7f10f545627c89504ee0d6",
     "url": "/resct-weather-app/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/resct-weather-app/static/css/2.89f067aa.chunk.css"
   },
   {
-    "revision": "0b63672c91af15f8b1e1",
+    "revision": "8c49942254a21df9e8be",
     "url": "/resct-weather-app/static/css/main.144da581.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/resct-weather-app/static/js/2.bdb40018.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0b63672c91af15f8b1e1",
-    "url": "/resct-weather-app/static/js/main.fc90b460.chunk.js"
+    "revision": "8c49942254a21df9e8be",
+    "url": "/resct-weather-app/static/js/main.34b23220.chunk.js"
   },
   {
     "revision": "f2ff90b62caa33bb74ab",
