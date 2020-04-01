@@ -10,7 +10,7 @@ export class WeatherDisplay extends React.Component{
     componentDidMount(){
         const id= this.props.id;
 
-        fetch("http://api.openweathermap.org/data/2.5/weather?id="+id+"&appid=b1b35bba8b434a28a0be2a3e1071ae5b&units=imperial")
+        fetch("https://api.openweathermap.org/data/2.5/weather?id="+id+"&appid=b1b35bba8b434a28a0be2a3e1071ae5b&units=imperial")
         .then(res=>res.json())
         .then(data=>{
             this.setState({ weatherData: data })
@@ -23,7 +23,7 @@ export class WeatherDisplay extends React.Component{
             return <div>Loading...</div>
             }
         const weather = weatherData.weather[0];
-        const iconUrl = "http://openweathermap.org/img/w/" + weather.icon + ".png";
+        const iconUrl = "https://openweathermap.org/img/w/" + weather.icon + ".png";
         return (
             <div>
                 <h1>
