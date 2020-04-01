@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/react-weather-app/static/css/main.144da581.chunk.css",
-    "main.js": "/react-weather-app/static/js/main.4b947fc5.chunk.js",
-    "main.js.map": "/react-weather-app/static/js/main.4b947fc5.chunk.js.map",
-    "runtime-main.js": "/react-weather-app/static/js/runtime-main.620a0042.js",
-    "runtime-main.js.map": "/react-weather-app/static/js/runtime-main.620a0042.js.map",
-    "static/css/2.89f067aa.chunk.css": "/react-weather-app/static/css/2.89f067aa.chunk.css",
-    "static/js/2.bdb40018.chunk.js": "/react-weather-app/static/js/2.bdb40018.chunk.js",
-    "static/js/2.bdb40018.chunk.js.map": "/react-weather-app/static/js/2.bdb40018.chunk.js.map",
-    "index.html": "/react-weather-app/index.html",
-    "precache-manifest.0fe160f10ba577c5e351bb9a0dbcdda0.js": "/react-weather-app/precache-manifest.0fe160f10ba577c5e351bb9a0dbcdda0.js",
-    "service-worker.js": "/react-weather-app/service-worker.js",
-    "static/css/2.89f067aa.chunk.css.map": "/react-weather-app/static/css/2.89f067aa.chunk.css.map",
-    "static/css/main.144da581.chunk.css.map": "/react-weather-app/static/css/main.144da581.chunk.css.map",
-    "static/js/2.bdb40018.chunk.js.LICENSE.txt": "/react-weather-app/static/js/2.bdb40018.chunk.js.LICENSE.txt"
+    "main.css": "/resct-weather-app/static/css/main.144da581.chunk.css",
+    "main.js": "/resct-weather-app/static/js/main.fc90b460.chunk.js",
+    "main.js.map": "/resct-weather-app/static/js/main.fc90b460.chunk.js.map",
+    "runtime-main.js": "/resct-weather-app/static/js/runtime-main.ea93de42.js",
+    "runtime-main.js.map": "/resct-weather-app/static/js/runtime-main.ea93de42.js.map",
+    "static/css/2.89f067aa.chunk.css": "/resct-weather-app/static/css/2.89f067aa.chunk.css",
+    "static/js/2.bdb40018.chunk.js": "/resct-weather-app/static/js/2.bdb40018.chunk.js",
+    "static/js/2.bdb40018.chunk.js.map": "/resct-weather-app/static/js/2.bdb40018.chunk.js.map",
+    "index.html": "/resct-weather-app/index.html",
+    "precache-manifest.6e6263a90ae6225dca9d052c2d4959c9.js": "/resct-weather-app/precache-manifest.6e6263a90ae6225dca9d052c2d4959c9.js",
+    "service-worker.js": "/resct-weather-app/service-worker.js",
+    "static/css/2.89f067aa.chunk.css.map": "/resct-weather-app/static/css/2.89f067aa.chunk.css.map",
+    "static/css/main.144da581.chunk.css.map": "/resct-weather-app/static/css/main.144da581.chunk.css.map",
+    "static/js/2.bdb40018.chunk.js.LICENSE.txt": "/resct-weather-app/static/js/2.bdb40018.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.620a0042.js",
+    "static/js/runtime-main.ea93de42.js",
     "static/css/2.89f067aa.chunk.css",
     "static/js/2.bdb40018.chunk.js",
     "static/css/main.144da581.chunk.css",
-    "static/js/main.4b947fc5.chunk.js"
+    "static/js/main.fc90b460.chunk.js"
   ]
 }
